@@ -24,6 +24,6 @@ Instructions for running each module:
 
 Credits:
 
-Supervised Learning Module: Chloe Zhu
+Supervised Learning Module: Chloe Zhu, some edits by Owen Whitley
 Unuspervised Learning Module: Owen Whitley
 
