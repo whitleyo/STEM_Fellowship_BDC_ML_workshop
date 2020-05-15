@@ -1,6 +1,18 @@
 # STEM_Fellowship_BDC_ML_workshop
 ## Workshop 3: Machine Learning
 
+### What This Is
+
+It's a 1 hour introduction to supervised and unsupervised machine learning, giving you examples of what they do and an intuition as to how they work.
+
+### What This Isn't
+
+This isn't a comprehensive introduction to the topic, and is by no means a substitute for going through the materials of an undergraduate or graduate level course (either on your own or actually taking a class).
+
+To learn more about this topic, here are some publicly available [notes](https://www.cs.toronto.edu/~mren/teach/csc411_19s/) from an undergraduate course at U of T.
+
+### Setup for Workshop:
+
 We have two modules for this workshop (url corresponds to notebook for given module):
 
 1) Supervised Learning (https://github.com/whitleyo/STEM_Fellowship_BDC_ML_workshop/blob/master/supervised_learning.ipynb)
