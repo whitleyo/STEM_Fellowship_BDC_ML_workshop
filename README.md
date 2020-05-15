@@ -24,5 +24,6 @@ Instructions for running each module:
 Credits:
 
 Supervised Learning Module: Chloe Zhu
+
 Unuspervised Learning Module: Owen Whitley
 
